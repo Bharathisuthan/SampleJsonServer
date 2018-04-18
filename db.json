@@ -1,4 +1,133 @@
 {
+  "zone": [
+    {
+        "id": "1001",
+        "zoneCode": "100101",
+        "parkingAddress": [
+        {
+            "id": "100111",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100111",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100122",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100122",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100133",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100133",
+            "address2": "addLine 2"
+        }]
+    },
+    {
+        "id": "1002",
+        "zoneCode": "100201",
+        "parkingAddress": [
+        {
+            "id": "100211",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100211",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100222",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100222",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100233",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100233",
+            "address2": "addLine 2"
+        }]
+    },
+    {
+        "id": "1003",
+        "zoneCode": "100301",
+        "parkingAddress": [
+        {
+            "id": "100311",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100311",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100322",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100322",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100333",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100333",
+            "address2": "addLine 2"
+        }]
+    },
+    {
+        "id": "1004",
+        "zoneCode": "100401",
+        "parkingAddress": [
+        {
+            "id": "100411",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100411",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100422",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100422",
+            "address2": "addLine 2"
+        },
+        {
+            "id": "100433",
+            "country": "USA",
+            "city": "XYZ City",
+            "postalCode": "424242",
+            "state": "ABC State",
+            "address1": "100433",
+            "address2": "addLine 2"
+        }]
+    }],
   "USER": [
     {
       "id": 1,
