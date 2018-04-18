@@ -128,6 +128,7 @@
             "address2": "addLine 2"
         }]
     }],
+  
   "USER": [
     {
       "id": 1,
@@ -174,50 +175,5 @@
       "password": "sh123",
       "phone": 9865732410
     }
-  ],
-  
-  "VSR": [
-  {
-    "VSRMenuEnum": 9,
-    "VSRMenuName": "Deliveryfailed",
-    "NumberOfFiles": 0,
-    "AudioLength": "0:0:0",
-    "VSRStageList": [
-    {
-      "StageId": 11,
-      "StageName": "Formatter2",
-      "NumberOfFiles": 1,
-      "AudioLength": "0:0:9",
-      "VSRAudioList": []
-    }]
-  },
-{
-    "VSRMenuEnum": 9,
-    "VSRMenuName": "Deliveryfailed",
-    "NumberOfFiles": 0,
-    "AudioLength": "0:0:0",
-    "VSRStageList": [
-    {
-      "StageId": 11,
-      "StageName": "Formatter2",
-      "NumberOfFiles": 1,
-      "AudioLength": "0:0:9",
-      "VSRAudioList": []
-    }]
-  },
-{
-    "VSRMenuEnum": 9,
-    "VSRMenuName": "Deliveryfailed",
-    "NumberOfFiles": 0,
-    "AudioLength": "0:0:0",
-    "VSRStageList": [
-    {
-      "StageId": 11,
-      "StageName": "Formatter2",
-      "NumberOfFiles": 1,
-      "AudioLength": "0:0:9",
-      "VSRAudioList": []
-    }]
-  }
   ]
 }
