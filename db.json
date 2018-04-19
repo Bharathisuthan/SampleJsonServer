@@ -130,7 +130,7 @@
     },
     {
         "id": "QwrtYUioPASFhjK35V89Bdgd",
-        "zoneCode": "100101",
+        "zoneCode": "987652",
         "parkingAddress": [
         {
             "id": "100111",
@@ -158,6 +158,38 @@
             "state": "California",
             "address1": "865 Market St",
             "address2": "San Francisco"
+        }]
+    },
+    {
+        "id": "98MGshTjKdLfvsQRbcvN",
+        "zoneCode": "6985317",
+        "parkingAddress": [
+        {
+            "id": "100211",
+            "country": "USA",
+            "city": "Concord",
+            "postalCode": "94520",
+            "state": "California",
+            "address1": "1 Sunvalley Mall Rd",
+            "address2": "Concord"
+        },
+        {
+            "id": "100222",
+            "country": "USA",
+            "city": "Phoenix",
+            "postalCode": "86016",
+            "state": "Phoenix",
+            "address1": "1919 E",
+            "address2": "Camelback Rd"
+        },
+        {
+            "id": "100233",
+            "country": "USA",
+            "city": "Phoenix",
+            "postalCode": "85032",
+            "state": "Phoenix",
+            "address1": "4568 E",
+            "address2": "Cactus Rd"
         }]
     },
     {
