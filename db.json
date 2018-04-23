@@ -130,7 +130,7 @@
     },
     {
         "id": "QwrtYUioPASFhjK35V89Bdgd",
-        "zoneCode": "987652",
+        "zoneCode": "100101",
         "parkingAddress": [
         {
             "id": "100111",
@@ -158,38 +158,6 @@
             "state": "California",
             "address1": "865 Market St",
             "address2": "San Francisco"
-        }]
-    },
-    {
-        "id": "98MGshTjKdLfvsQRbcvN",
-        "zoneCode": "6985317",
-        "parkingAddress": [
-        {
-            "id": "100211",
-            "country": "USA",
-            "city": "Concord",
-            "postalCode": "94520",
-            "state": "California",
-            "address1": "1 Sunvalley Mall Rd",
-            "address2": "Concord"
-        },
-        {
-            "id": "100222",
-            "country": "USA",
-            "city": "Phoenix",
-            "postalCode": "86016",
-            "state": "Phoenix",
-            "address1": "1919 E",
-            "address2": "Camelback Rd"
-        },
-        {
-            "id": "100233",
-            "country": "USA",
-            "city": "Phoenix",
-            "postalCode": "85032",
-            "state": "Phoenix",
-            "address1": "4568 E",
-            "address2": "Cactus Rd"
         }]
     },
     {
@@ -222,6 +190,86 @@
             "state": "Washington",
             "address1": "4055",
             "address2": "Factoria Square Mall SE"
+        }]
+    }],
+
+    "my-account": [
+    {
+        "id": "123",
+        "name": "Ralph Thomas",
+        "totalParked": "12 hr 30 m",
+        "totalSpent": "27",
+        "totalSession": "8",
+        "savedCardList": [
+        {
+            "Id": 1,
+            "cardName": "BofA Credit",
+            "cardNumber": "xxxx xxxx xxxx 3716",
+            "defaultCard": true
+        },
+        {
+            "Id": 2,
+            "cardName": "Amex 1",
+            "cardNumber": "xxxx xxxx xxxx 8464",
+            "defaultCard": false
+        },
+        {
+            "Id": 3,
+            "cardName": "Dads Card",
+            "cardNumber": "xxxx xxxx xxxx 8946",
+            "defaultCard": false
+        },
+        {
+            "Id": 4,
+            "cardName": "Amex 2",
+            "cardNumber": "xxxx xxxx xxxx 5643",
+            "defaultCard": false
+        },
+        {
+            "Id": 5,
+            "cardName": "Amex 3",
+            "cardNumber": "xxxx xxxx xxxx 1783",
+            "defaultCard": false
+        }],
+        "carPlateList": [
+        {
+            "Id": "1",
+            "carName": "Dads Car",
+            "plateNumber": "978-KCW",
+            "defaultCar": false
+        },
+        {
+            "Id": "2",
+            "carName": "Benz Personal",
+            "plateNumber": "641-AWP",
+            "defaultCar": false
+        },
+        {
+            "Id": "3",
+            "carName": "Benz Home",
+            "plateNumber": "779-AWP",
+            "defaultCar": true
+        }],
+        "phoneList": [
+        {
+            "Id": 1,
+            "phone": "+1 (265) 920-8721",
+            "defaultPhone": false
+        },
+        {
+            "Id": 2,
+            "phone": "+1 (954) 876-9822",
+            "defaultPhone": false
+        },
+        {
+            "Id": 3,
+            "phone": "+1 (283) 442-9619",
+            "defaultPhone": false
+        },
+        {
+            "Id": 4,
+            "phone": "+1 (470) 151-2367",
+            "defaultPhone": true
         }]
     }],
 
