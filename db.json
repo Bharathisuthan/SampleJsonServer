@@ -253,25 +253,25 @@
         "phoneList": [
         {
             "Id": 1,
-            "country": "1",
+            "country": 1,
             "phone": "(265) 920-8721",
             "defaultPhone": false
         },
         {
             "Id": 2,
-            "country": "1",
+            "country": 1,
             "phone": "(954) 876-9822",
             "defaultPhone": false
         },
         {
             "Id": 3,
-            "country": "1",
+            "country": 1,
             "phone": "(283) 442-9619",
             "defaultPhone": false
         },
         {
             "Id": 4,
-            "country": "1",
+            "country": 1,
             "phone": "(470) 151-2367",
             "defaultPhone": true
         }]
